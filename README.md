@@ -43,3 +43,7 @@ Body (JSON)
 "success": true,
     "qr": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAC0CAYAAAA9zQYyAAAAAklEQVR4AewaftIAAAevSURBVO3BQY4cy5LAQDLQ978yR0tfJVDIan29GDezP1jrEoe1LnJY6yKHtS5yWOsih7UucljrIoe1LnJY6yKHtS5yWOsih7UucljrIoe1LnJY6yKHtS7yw0sqf1PFE5UnFZPKVPFE5UnFpDJVfEJlqnii8...."
 ```
+## 📐 Architecture
+
+รายละเอียดโครงสร้างระบบสามารถดูได้ที่  
+👉 [System Architecture](architecture.md)
