@@ -15,7 +15,7 @@
 ---
 
 ## Architecture Diagram (Conceptual)
-
+```
 Client (Web / Mobile / Postman)
         |
         |  HTTP POST (JSON)
@@ -30,7 +30,7 @@ API Server (Node.js + Express)
         v
 Response (JSON)
 (payload + Base64 QR Code)
-
+```
 ---
 
 ## Components
