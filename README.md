@@ -18,7 +18,8 @@ API สำหรับสร้าง QR Code PromptPay
 
 ## ▶️ วิธีรันโปรเจกต์
 ```bash
-git clone 
+git clone https://github.com/Nantadet/PromptPay-QR-Code-Generator-API.git 
+
 npm install
 node index.js
 ```
@@ -46,4 +47,4 @@ Body (JSON)
 ## 📐 Architecture
 
 รายละเอียดโครงสร้างระบบสามารถดูได้ที่  
-👉 [System Architecture](architecture.md)
+👉 [System Architecture](Architecture.md)
